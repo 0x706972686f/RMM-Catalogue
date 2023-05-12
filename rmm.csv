@@ -1,0 +1,137 @@
+﻿Software,Domain,Executables
+Access Remote PC,,"rpcgrab.exe, rpcsetup.exe"
+Action1,action1.com,
+AeroAdmin,aeroadmin.com,aeroadmin.exe
+AliWangWang-remote-control,wangwang.taobao.com,alitask.exe
+Alpemix,alpemix.com,alpemix.exe
+AmmyyAdmin,ammyy.com,AMMYY_Admin.exe
+AnyDesk,anydesk.com,anydesk.exe
+Anyplace Control,anyplace-control.com,apc_host.exe
+Atera RMM,atera.com,"ateraagent.exe, syncrosetup.exe"
+Auvik,auvik.com,
+Barracuda,barracudamsp.com,
+Basecamp,basecamp.com,
+BeamYourScreen,beamyourscreenc.om,"beamyourscreen.exe, beamyourscreen-host.exe"
+BeAnywhere,beanywhere.en.uptodown.com/windows,"basupsrvc.exe, basupsrvcupdate.exe, basuptshelper.exe"
+Bomgar,beyondtrust.com/brand/bomgar,bomgar-scc.exe
+CentraStage (Now Datto),datto.com/au/products/rmm/,CagService.exe
+Centurion,,ctiserv.exe
+Chrome Remote Desktop,remotedesktop.google.com,remote_host.exe
+ConnectWise Control,control.connectwise.com,"connectwisechat-customer.exe, connectwisecontrol.client.exe"
+Comodo RMM,one.comodo.com,
+CrossLoop,crossloop.en.softonic.com,crossloopservice.exe
+CrossTec Remote Control,crosstecsoftware.com/remotecontrol,"PCIVIDEO.EXE, supporttool.exe"
+Cruz,resources.doradosoftware.com/cruz-rmm,
+Dameware-mini remote control Protocol,dameware.com,"dntus*.exe, dwrcs.exe"
+Datto,datto.com,
+DeskDay,deskday.ai,
+Domotz,domotz.com,domotz_bash.exe
+dwservice,dwservice.net,
+Echoware,,"echoserver*.exe, echoware.dll"
+Electric,electric.ai,
+EMCO Remote Console,emcosoftware.com,remoteconsole.exe
+Encapto,encapto.com,
+Ericom AccessNow,ericom.com,accessserver.exe
+Ericom Connect,ericom.com,ericomconnnectconfigurationtool.exe
+ESET Remote Administrator,eset.com/me/business/remote-management/remote-administrator/,"era.exe, ezhelp*.exe, eratool.exe"
+ezHelp,ezhelp.co.kr,"ezhelpclient.exe, ezhelpclientmanager.exe"
+FastViewer,fastviewer.com,"fastclient.exe, fastmaster.exe"
+FixMe.it,fixme.it,fixmeitclient.exe
+FleetDeck,fleetdeck.io,fleetdeck_agent_svc.exe
+Fortra,fortra.com,
+GatherPlace-desktop sharing,gatherplace.com,"gp3.exe, gp4.exe, gp5.exe"
+GetScreen,getscreen.me,
+GoToAssist,goto.com,"g2a*.exe, gotoassist.exe"
+GoToMyPC,get.gotomypc.com,"g2file*.exe, g2quick.exe, g2svc.exe, g2tray.exe"
+Goverlan,goverlan.com,"goverrmc.exe, govsrv*.exe"
+Guacamole,guacamole.apache.org,guacd.exe
+HelpBeam,helpbeam.software.informer.com,helpbeam*.exe
+I'm InTouch,01com.com/imintouch-remote-pc-desktop,"iit.exe, intouch.exe"
+Instant Housecall,instanthousecall.com,"hsloader.exe, ihcserver.exe, instanthousecall.exe"
+IntelliAdmin Remote Control,intelliadmin.com/remote-control,"iadmin.exe, intelliadmin.exe"
+Iperius Remote,iperiusremote.com,"iperius.exe, iperiusremote.exe"
+ISL Light,islonline.com,"islalwaysonmonitor.exe, isllight.exe, isllightservice.exe"
+Itarian,itarian.com,
+Jump Desktop,jumpdesktop.com,"jumpclient.exe, jumpdesktop.exe, jumpservice.exe"
+JwrapperRA,jwrapper.com,
+Kabuto,repairtechsolutions.com/kabuto/,
+Kaseya (aka Unigma),kaseya.com,
+KickIdler,kickidler.com,
+LabTech RMM (Now ConnectWise Automate),connectwise.com,"ltsvc.exe, ltsvcmon.exe, lttray.exe"
+LANDesk,ivanti.com,"issuser.exe, landeskagentbootstrap.exe, ldinv32.exe, ldsensors.exe"
+Laplink Everywhere,everywhere.laplink.com,"laplink.exe, laplinkeverywhere.exe, llrcservice.exe, serverproxyservice.exe"
+Laplink Gold,wen.laplink.com/product/laplink-gold,"laplink.exe, tsircusr.exe"
+Level,level.io,
+LiteManager,litemanager.com,"romfusclient.exe, romserver.exe, romviewer.exe"
+LogMeIn,logmein.com/central,"lmiguardiansvc.exe, lmiignition.exe, logmein.exe, logmeinsystray.exe"
+LogMeIn rescue,logmeinrescue.com,"support-logmeinrescue*.exe, support-logmeinrescue.exe"
+ManageEngine RMM Central,manageengine.com/remote-monitoring-management/,
+Mikogo,mikogo.com,"mikogo.exe, mikogolauncher.exe, mikogo-service.exe, mikogo-starter.exe"
+MioNet (Also known as WD Anywhere Access),,"mionet.exe, mionetmanager.exe"
+mRemoteNG,mremoteng.org,
+MSP360,msp360.com,
+mspStack,mspstack.com,
+MyIVO,myivo-server.software.informer.com,"myivomanager.exe, myivomgr.exe"
+Naverisk ,naverisk.com,
+N-ABLE Remote Access Software,b-able.com,
+Netop Remote Control (aka Impero Connect),imperosoftware.com/impero-connect/,"nhostsvc.exe, nhstw32.exe, nldrw32.exe, rmserverconsolemediator.exe"
+NetSupport Manager,netsupportmanager.com,client32.exe
+Netreo,netreo.com,
+Neturo,,"neturo.exe, ntrntservice.exe"
+Netviewer,download.cnet.com/Net-Viewer/3000-2370_4-10034828.html,"netviewer*.exe, netviewer.exe"
+NinjaRMM,ninjaone.com,
+NoMachine,nomachine.com,"nomachine*.exe, nxd.exe"
+NoteOn-desktop sharing,,"nateon*.exe, nateon.exe, nateonmain.exe"
+Panorama9,panorama9.com,
+Parallels Access,parallels.com/products/ras/try,"prl_deskctl_agent.exe, prl_deskctl_wizard.exe, prl_pm_service.exe"
+pcAnywhere,,"awhost32.exe, pcaquickconnect.exe, winaw32.exe"
+Pcnow,au.pcmag.com/utilities/21470/webex-pcnow,"mwcliun.exe, pcnmgr.exe, webexpcnow.exe"
+Pcvisit,pcvisit.de,"pcvisit.exe, pcvisit_client.exe, pcvisit-easysupport.exe"
+Pocket Controller,soti.net/products/soti-pocket-controller,"pocketcontroller.exe, pocketcloudservice.exe, wysebrowser.exe"
+PulseWay,pulseway.com,
+QQ IM-remote assistance,qq-messenger.en.softonic.com,"qq.exe, qqpcmgr.exe"
+Quick Assist,,quickassist.exe
+Radmin,radmin.com,radmin.exe
+rdp2tcp,github.com/V-E-O/rdp2tcp,"tdp2tcp.exe, rdp2tcp.py"
+RDPView,systemmanager.ru/dntu.en/rdp_view.htm,
+rdpwrap,github.com/stascorp/rdpwrap,
+Remobo,remobo.en.softonic.com,"remobo.exe, remobo_client.exe, remobo_tracker.exe"
+Remote Desktop Plus,donkz.nl,
+Remote.it,remote.it,
+Remote Manipulator System,rmansys.ru,"rfusclient.exe, rutserv.exe"
+Remote Utilities,,"rutserv.exe, rutview.exe"
+RemoteCall,remotecall.com,"rcengmgru.exe, rcmgrsvc.exe, remotesupportplayeru.exe, rxstartsupport.exe"
+RemotePass,remotepass.com,"remotepass-access.exe, rpaccess.exe, rpwhostscr.exe"
+RemotePC,remotepc.com,"remotepcservice.exe, rpcsuite.exe"
+RemoteView,content.rview.com,"remoteview.exe, rv.exe, rvagent.exe, rvagtray.exe"
+RES Automation Manager,ivanti.com/,"wisshell*.exe, wmc.exe, wmc_deployer.exe, wmcsvc.exe"
+rport,rport.io,
+RunSmart,runsmart.io,
+RustDesk,rustdesk.com,rustdesk.exe
+ScreenConnect (aka COnnectWise/Continuum),control.connectwise.com,"screenconnect*.exe, screenconnect.windowsclient.exe"
+Seetrol,seetrol.co.kr,"seetrolcenter.exe, seetrolclient.exe, seetrolmyservice.exe, seetrolremote.exe, seetrolsetting.exe"
+Senso.cloud,senso.cloud,
+SkyFex,skyfex.com,
+ShowMyPC,showmypc.com,"showmypc*.exe, showmypc.exe"
+SimpleHelp,simple-help.com,"simplehelpcustomer.exe, simpleservice.exe, windowslauncher.exe"
+Site24x7,site24x7.com/msp,
+Sophos-Remote Management System,community.sophos.com/on-premise-endpoint/f/sophos-endpoint-software/5725/sophos-remote-management-system,"clientmrinit.exe, mgntsvc.exe, routernt.exe"
+Splashtop Remote,splashtop.com,"sragent.exe, srmanager.exe, srserver.exe, srservice.exe"
+SpyAnywhere,spyanywhere.com,
+SuperOps,superops.ai,
+Supremo,supremocontrol.com,"supremo.exe, supremohelper.exe, supremoservice.exe, supremosystem.exe"
+Syncro,syncromsp.com,
+Tailscale,tailscale.com,
+Tanium Deploy,tanium.com/products/tanium-deploy,
+TeamViewer,teamviewer.com,"teamviewer*.exe, teamviewer_service.exe, teamviewerqs.exe, tv_w32.exe, tv_w64.exe"
+TeleDesktop,tele-desk.com,"pstlaunch.exe, ptdskclient.exe, ptdskhost.exe"
+ToDesk,todesktop.com,
+TurboMeeting,acceo.com/turbomeeting/,"pcstarter.exe, turbomeeting.exe, turbomeetingstarter.exe"
+Ultraviewer,ultraviewer.net,"ultraviewer.exe, ultraviewer_desktop.exe, ultraviewer_service.exe"
+VNC,realvnc.com/en/connect/download/vnc,"vncserver.exe, vncserverui.exe, vncviewer.exe, winvnc*.exe"
+WebRDP,github.com/Mikej81/WebRDP,webrdp.exe
+Weezo,weezo.en.softonic.com,"weezo.exe, weezohttpd.exe"
+XEOX,xeox.com,
+Zabbix Agent,zabbix.com,
+ZeroTier,zerotier.com,
+Zoho Assist,zoho.com/assist/,"za_connect.exe, zaservice.exe, zohotray.exe"
