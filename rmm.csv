@@ -105,6 +105,8 @@ RemotePass,remotepass.com,"remotepass-access.exe, rpaccess.exe, rpwhostscr.exe"
 RemotePC,remotepc.com,"remotepcservice.exe, rpcsuite.exe"
 RemoteView,content.rview.com,"remoteview.exe, rv.exe, rvagent.exe, rvagtray.exe"
 RES Automation Manager,ivanti.com/,"wisshell*.exe, wmc.exe, wmc_deployer.exe, wmcsvc.exe"
+Royal Server,royalapps.com
+Royal TS,royalapps.com,royalts.exe"
 rport,rport.io,
 RunSmart,runsmart.io,
 RustDesk,rustdesk.com,rustdesk.exe
