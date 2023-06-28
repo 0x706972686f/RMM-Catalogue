@@ -64,7 +64,7 @@ Laplink Gold,wen.laplink.com/product/laplink-gold,"laplink.exe, tsircusr.exe"
 Level,level.io,
 LiteManager,litemanager.com,"romfusclient.exe, romserver.exe, romviewer.exe"
 LogMeIn,logmein.com/central,"lmiguardiansvc.exe, lmiignition.exe, logmein.exe, logmeinsystray.exe"
-LogMeIn rescue,logmeinrescue.com,"support-logmeinrescue*.exe, support-logmeinrescue.exe"
+LogMeIn rescue,logmeinrescue.com,"support-logmeinrescue*.exe, support-logmeinrescue.exe, lmi_rescue.exe"
 ManageEngine RMM Central,manageengine.com/remote-monitoring-management/,
 MeshCentral,meshcentral.com,mesh*.exe
 Mikogo,mikogo.com,"mikogo.exe, mikogolauncher.exe, mikogo-service.exe, mikogo-starter.exe"
