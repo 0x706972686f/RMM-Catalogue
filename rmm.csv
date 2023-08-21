@@ -18,7 +18,7 @@ CentraStage (Now Datto),datto.com/au/products/rmm/,CagService.exe
 Centurion,,ctiserv.exe
 Chrome Remote Desktop,remotedesktop.google.com,remote_host.exe
 ConnectWise Control,control.connectwise.com,"connectwisechat-customer.exe,connectwisecontrol.client.exe"
-Comodo RMM,one.comodo.com,
+Comodo RMM,one.comodo.com,"itsmagent.exe,rviewer.exe"
 CrossLoop,crossloop.en.softonic.com,crossloopservice.exe
 CrossTec Remote Control,crosstecsoftware.com/remotecontrol,"PCIVIDEO.EXE,supporttool.exe"
 Cruz,resources.doradosoftware.com/cruz-rmm,
@@ -28,6 +28,7 @@ DeskDay,deskday.ai,
 Domotz,domotz.com,domotz_bash.exe
 dwservice,dwservice.net,
 Echoware,,"echoserver*.exe,echoware.dll"
+eHorus,ehorus.com,"ehorus standalone.exe,
 Electric,electric.ai,
 EMCO Remote Console,emcosoftware.com,remoteconsole.exe
 Encapto,encapto.com,
@@ -40,7 +41,7 @@ FixMe.it,fixme.it,fixmeitclient.exe
 FleetDeck,fleetdeck.io,fleetdeck_agent_svc.exe
 Fortra,fortra.com,
 GatherPlace-desktop sharing,gatherplace.com,"gp3.exe,gp4.exe,gp5.exe"
-GetScreen,getscreen.me,
+GetScreen,getscreen.me,getscreen.exe
 GoToAssist,goto.com,"g2a*.exe,gotoassist.exe"
 GotoHTTP,gotohttp.com,gotohttp.exe
 GoToMyPC,get.gotomypc.com,"g2file*.exe,g2quick.exe,g2svc.exe,g2tray.exe"
@@ -52,9 +53,7 @@ Instant Housecall,instanthousecall.com,"hsloader.exe,ihcserver.exe,instanthousec
 IntelliAdmin Remote Control,intelliadmin.com/remote-control,"iadmin.exe,intelliadmin.exe"
 Iperius Remote,iperiusremote.com,"iperius.exe,iperiusremote.exe"
 ISL Light,islonline.com,"islalwaysonmonitor.exe,isllight.exe,isllightservice.exe"
-Itarian,itarian.com,
 Jump Desktop,jumpdesktop.com,"jumpclient.exe,jumpdesktop.exe,jumpservice.exe"
-JwrapperRA,jwrapper.com,
 Kabuto,repairtechsolutions.com/kabuto/,
 Kaseya (aka Unigma),kaseya.com,
 KickIdler,kickidler.com,
@@ -72,12 +71,11 @@ Mikogo,mikogo.com,"mikogo.exe,mikogolauncher.exe,mikogo-service.exe,mikogo-start
 MioNet (Also known as WD Anywhere Access),,"mionet.exe,mionetmanager.exe"
 mRemoteNG,mremoteng.org,
 MSP360,msp360.com,
-mspStack,mspstack.com,
 MyIVO,myivo-server.software.informer.com,"myivomanager.exe,myivomgr.exe"
 Naverisk ,naverisk.com,
-N-ABLE Remote Access Software,b-able.com,
+N-ABLE Remote Access Software,n-able.com,
 Netop Remote Control (aka Impero Connect),imperosoftware.com/impero-connect/,"nhostsvc.exe,nhstw32.exe,nldrw32.exe,rmserverconsolemediator.exe"
-NetSupport Manager,netsupportmanager.com,client32.exe
+NetSupport Manager,netsupportmanager.com,"client32.exe,pcictlui.exe"
 Netreo,netreo.com,
 Neturo,,"neturo.exe,ntrntservice.exe"
 Netviewer,download.cnet.com/Net-Viewer/3000-2370_4-10034828.html,"netviewer*.exe,netviewer.exe"
@@ -110,6 +108,7 @@ RES Automation Manager,ivanti.com/,"wisshell*.exe,wmc.exe,wmc_deployer.exe,wmcsv
 Royal Server,royalapps.com,
 Royal TS,royalapps.com,royalts.exe
 rport,rport.io,
+RuDesktop,rudesktop.ru,"rd.exe,rudesktop*.exe"
 RunSmart,runsmart.io,
 RustDesk,rustdesk.com,rustdesk.exe
 ScreenConnect (aka COnnectWise/Continuum),control.connectwise.com,"screenconnect*.exe,screenconnect.windowsclient.exe"
@@ -130,7 +129,7 @@ Tactical RMM,docs.tacticalrmm.com,tacticalrmm.exe
 Tanium Deploy,tanium.com/products/tanium-deploy,
 TeamViewer,teamviewer.com,"teamviewer*.exe,teamviewer_service.exe,teamviewerqs.exe,tv_w32.exe,tv_w64.exe"
 TeleDesktop,tele-desk.com,"pstlaunch.exe,ptdskclient.exe,ptdskhost.exe"
-ToDesk,todesktop.com,
+ToDesk,todesktop.com,todesk.exe
 TurboMeeting,acceo.com/turbomeeting/,"pcstarter.exe,turbomeeting.exe,turbomeetingstarter.exe"
 Ultraviewer,ultraviewer.net,"ultraviewer.exe,ultraviewer_desktop.exe,ultraviewer_service.exe"
 VNC,realvnc.com/en/connect/download/vnc,"vncserver.exe,vncserverui.exe,vncviewer.exe,winvnc*.exe"
