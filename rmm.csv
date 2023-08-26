@@ -1,6 +1,6 @@
 ﻿Software,Domain,Executables
 Access Remote PC,,"rpcgrab.exe,rpcsetup.exe"
-Action1,action1.com,
+Action1,action1.com,action1_agent.exe
 AeroAdmin,aeroadmin.com,aeroadmin.exe
 AliWangWang-remote-control,wangwang.taobao.com,alitask.exe
 Alpemix,alpemix.com,alpemix.exe
@@ -28,7 +28,7 @@ DeskDay,deskday.ai,
 Domotz,domotz.com,domotz_bash.exe
 dwservice,dwservice.net,
 Echoware,,"echoserver*.exe,echoware.dll"
-eHorus,ehorus.com,"ehorus standalone.exe,
+eHorus,ehorus.com,"ehorus standalone.exe"
 Electric,electric.ai,
 EMCO Remote Console,emcosoftware.com,remoteconsole.exe
 Encapto,encapto.com,
@@ -135,7 +135,7 @@ Ultraviewer,ultraviewer.net,"ultraviewer.exe,ultraviewer_desktop.exe,ultraviewer
 VNC,realvnc.com/en/connect/download/vnc,"vncserver.exe,vncserverui.exe,vncviewer.exe,winvnc*.exe"
 WebRDP,github.com/Mikej81/WebRDP,webrdp.exe
 Weezo,weezo.en.softonic.com,"weezo.exe,weezohttpd.exe"
-XEOX,xeox.com,
+XEOX,xeox.com,xeox-agent_x64.exe
 Zabbix Agent,zabbix.com,
 ZeroTier,zerotier.com,
 Zoho Assist,zoho.com/assist/,"za_connect.exe,zaservice.exe,zohotray.exe"
