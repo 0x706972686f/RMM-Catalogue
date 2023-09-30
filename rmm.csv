@@ -1,4 +1,4 @@
-﻿Software,Domain,Executables,Category
+﻿Software,Domain,Executables,Category,References
 Access Remote PC,,"rpcgrab.exe,rpcsetup.exe",RMM
 Action1,action1.com,action1_agent.exe,RMM
 AeroAdmin,aeroadmin.com,aeroadmin.exe,RMM
@@ -114,7 +114,7 @@ rport,rport.io,,RMM
 RuDesktop,rudesktop.ru,"rd.exe,rudesktop*.exe",RMM
 RunSmart,runsmart.io,,RMM
 RustDesk,rustdesk.com,rustdesk.exe,RMM
-ScreenConnect (aka COnnectWise/Continuum),control.connectwise.com,"screenconnect*.exe,screenconnect.windowsclient.exe",RMM
+ScreenConnect (aka COnnectWise/Continuum),control.connectwise.com,"screenconnect*.exe,screenconnect.windowsclient.exe",RMM,https://thedfirreport.com/2023/09/25/from-screenconnect-to-hive-ransomware-in-61-hours/
 Seetrol,seetrol.co.kr,"seetrolcenter.exe,seetrolclient.exe,seetrolmyservice.exe,seetrolremote.exe,seetrolsetting.exe",RMM
 Senso.cloud,senso.cloud,,RMM
 SkyFex,skyfex.com,,RMM
