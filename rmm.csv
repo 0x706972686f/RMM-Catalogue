@@ -54,6 +54,7 @@ I'm InTouch,01com.com/imintouch-remote-pc-desktop,"iit.exe,intouch.exe",RMM,
 Instant Housecall,instanthousecall.com,"hsloader.exe,ihcserver.exe,instanthousecall.exe",RMM,
 IntelliAdmin Remote Control,intelliadmin.com/remote-control,"iadmin.exe,intelliadmin.exe",RMM,
 Iperius Remote,iperiusremote.com,"iperius.exe,iperiusremote.exe",RMM,
+Itarian,,"ITSMAgent.exe,ItsmRsp.exe,ITSMService.exe,RDesktop.exe,RHost.exe,RmmService.exe",RMM
 ISL Light,islonline.com,"islalwaysonmonitor.exe,isllight.exe,isllightservice.exe",RMM,
 Jump Desktop,jumpdesktop.com,"jumpclient.exe,jumpdesktop.exe,jumpservice.exe",RMM,
 Kabuto,repairtechsolutions.com/kabuto/,,RMM,
