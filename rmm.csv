@@ -16,7 +16,7 @@ BeAnywhere,beanywhere.en.uptodown.com/windows,"basupsrvc.exe,basupsrvcupdate.exe
 Bomgar,beyondtrust.com/brand/bomgar,bomgar-scc.exe,RMM,
 CentraStage (Now Datto),datto.com/au/products/rmm/,CagService.exe,RMM,
 Centurion,,ctiserv.exe,RMM,
-Chrome Remote Desktop,remotedesktop.google.com,remote_host.exe,RMM,
+Chrome Remote Desktop,remotedesktop.google.com,"remote_host.exe,remoting_me2me_host",RMM,
 CloudFlare Tunnel,cloudflare.com/products/tunnel/,cloudflared.exe,Remote Access,
 ConnectWise Control,control.connectwise.com,"connectwisechat-customer.exe,connectwisecontrol.client.exe",RMM,
 Comodo RMM,one.comodo.com,"itsmagent.exe,rviewer.exe",RMM,
